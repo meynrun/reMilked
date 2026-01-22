@@ -1,9 +1,9 @@
 # reMilked
 
-[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/remilked)
-[![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://modrinth.com/mod/remilked/versions?l=fabric)
-[![neoforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/neoforge_vector.svg)](https://modrinth.com/mod/remilked/versions?l=neoforge)
-[![architectury-api](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/architectury-api_vector.svg)](https://modrinth.com/mod/architectury-api)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/mod/remilked)
+[![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_64h.png)](https://modrinth.com/mod/remilked/versions?l=fabric)
+[![neoforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/neoforge_64h.png)](https://modrinth.com/mod/remilked/versions?l=neoforge)
+[![architectury-api](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/architectury-api_64h.png)](https://modrinth.com/mod/architectury-api)
 
 An unofficial cross-platform continuation of the **Milked** mod, updated for Minecraft 1.21.1 using the **Architectury API**.
 
