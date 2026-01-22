@@ -1,0 +1,15 @@
+# Gradle files
+.gradle/
+build/
+/*/build/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.vscode/
+
+run/
+/*/run/

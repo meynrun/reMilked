@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "remilked",
+  "version": "${version}",
+  "name": "reMilked",
+  "description": "A Social Mod based around Bonding with Others!",
+  "authors": [
+    "Meynrun",
+    "SpiritXIV"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/remilked/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.meynrun.remilked.fabric.RemilkedFabric"
+    ],
+    "client": [
+      "dev.meynrun.remilked.fabric.client.RemilkedFabricClient"
+    ]
+  },
+  "mixins": [
+    "remilked.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.8",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

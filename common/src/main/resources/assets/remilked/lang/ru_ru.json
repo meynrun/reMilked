@@ -1,0 +1,10 @@
+{
+  "subtitles.player_milked": "Игрок подоен",
+  "subtitles.self_milked": "Игрок подоил сам себя",
+  "death.attack.milked_too_much": "%1$s был выдоен досуха",
+  "death.attack.milked_self_too_much": "%1$s выдоил себя досуха",
+  "item.remilked.player_milk": "Молоко %s",
+  "modmenu.nameTranslation.remilked": "reMilked",
+  "modmenu.descriptionTranslation.remilked": "Социальный мод о сближении с другими игроками!",
+  "modmenu.summaryTranslation.remilked": "Социальный мод о сближении с другими игроками!"
+}

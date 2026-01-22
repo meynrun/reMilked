@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "dev.meynrun.remilked.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "client.InventoryScreenMixin"
+  ],
+  "mixins": [
+    "PlayerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
